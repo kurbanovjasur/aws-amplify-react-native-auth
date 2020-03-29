@@ -15,6 +15,15 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "gHashTag",
+      "name": "ДимкаРеактнативный",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6774813?v=4",
+      "profile": "https://medium.com/react-native-init",
+      "contributions": [
+        "video"
+      ]
     }
   ],
   "contributorsPerLine": 7,
